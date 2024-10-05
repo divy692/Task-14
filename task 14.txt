@@ -66,7 +66,8 @@ CREATE TABLE users (
 
 ## Step 11: Verify Accessibility
 - Verified if the web page is accessible to anyone using the public IP address.
-- Public IP: 34.230.49.137
+- Public IP: 3.21.171.218
+
 
 # End of Document
 
