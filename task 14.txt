@@ -4,7 +4,7 @@
 - Opened Kali Linux terminal and logged into the cloud VM via SSH.
 - Command:
 sudo ssh -i /home/Divya/Downloads/cyber.pem ec2-user@3.21.171.218
-- Screenshot: [ssh-login Screenshot]
+- Screenshot: [Task 14-1 Screenshot]
 
 
 ## Step 2: Clone Repository
@@ -26,7 +26,7 @@ git clone https://github.com/divy692/Task-12
 
 ## Step 5: Access Web Page
 - Accessed the cloud VM via a local web browser to show the deployed web page.
-- Screenshot:[Task 1 .png]
+- Screenshot:[Task 14-3.png]
 
 ## Step 6: Install PHP and MySQL
 - Checked for PHP and MySQL installation, installing them if necessary.
@@ -52,7 +52,7 @@ CREATE TABLE users (
 );
 
 
-- Screenshot: [db-creation1 Screenshot]
+- Screenshot: [Task 14-2 Screenshot]
 - Screenshot: [db-creation2 Screenshot]
 
 ## Step 9: Create User Registration Files
@@ -61,7 +61,7 @@ CREATE TABLE users (
 
 ## Step 10: Log In as Created User
 - Logged back in as the user created during the registration process and shown the data in database.
-- Screenshot: [Task-3 Screenshot]
+- Screenshot: [Task-4 Screenshot]
 - Screenshot: [login_sql Screenshot]
 
 ## Step 11: Verify Accessibility
