@@ -52,8 +52,8 @@ CREATE TABLE users (
 );
 
 
-- Screenshot: [database_creation1 Screenshot]
-- Screenshot: [database_creation2 Screenshot]
+- Screenshot: [db-creation1 Screenshot]
+- Screenshot: [db-creation2 Screenshot]
 
 ## Step 9: Create User Registration Files
 - Created necessary PHP files to register a users and saved data in the database table.
@@ -61,7 +61,7 @@ CREATE TABLE users (
 
 ## Step 10: Log In as Created User
 - Logged back in as the user created during the registration process and shown the data in database.
-- Screenshot: [login Screenshot]
+- Screenshot: [Task-3 Screenshot]
 - Screenshot: [login_sql Screenshot]
 
 ## Step 11: Verify Accessibility
