@@ -53,7 +53,7 @@ CREATE TABLE users (
 
 
 - Screenshot: [Task 14-2 Screenshot]
-- Screenshot: [db-creation2 Screenshot]
+- Screenshot: [db-creation1 Screenshot]
 
 ## Step 9: Create User Registration Files
 - Created necessary PHP files to register a users and saved data in the database table.
